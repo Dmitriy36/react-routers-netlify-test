@@ -9,7 +9,7 @@ export default function NavBar() {
         <Link to="/links">Links Page! (Netlify test)</Link>
       </div>
       <div className="navbar-about">
-        <Link to="/about">The About Section! (Netlify test)</Link>
+        <Link to="/about">The About Section! LOL!(Netlify test)</Link>
       </div>
       <div className="navbar-contact">
         <Link to="/contact">The Contact Section! (Netlify test)</Link>
